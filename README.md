@@ -4,14 +4,14 @@ by afeique sheikh
 ## description
 This is a simple PHP class for succinctly throwing exceptions representing errors. Its primary usage is for throwing an exception when the expected input requirements for a function are not met.
 
-## usage
-Usage is straightforward:
+## comments
+* Usage information will be added at a later date.
+* Classes are not enclosed in a namespace which may lead to conflicts; user discretion is advised.
 
-    throw error::expecting_string();
-
-Will throw an exception saying _expecting string_.
+## license
+All code herein is under the public domain and may be used freely for any purpose, commercial or otherwise.
 
 ## comments
-Nothing spectacular. Created a github repo for versioning control across multiple projects.
-
-A slight warning: this class is purposely not enclosed within a namespace. You may want to enclose it within a namespace yourself.
+* Usage information will be added at a later date.
+* Classes are not enclosed in a namespace which may lead to conflicts; user discretion is advised.
+* This github repository was created with the express purpose of helping me with versioning control across multiple projects that use the same code.
